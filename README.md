@@ -8,4 +8,4 @@ git clone https://github.com/mrhamana/minigames
 
 then launch a live server however you want .Then play to your heart's content. Everything is made only using HTML , CSS and vanilla JavaScript. No More . Shows you that's all you need . None of the modern bloat called "FRAMEWORK!!".
 
-Any changes made to the repo is highly appreciated . Was a hobby project and would be fun to know how dumb i am by pointing out that i dereferenced a nullptr equivalent in JavaScript. Anyways , happy hacking!!
+This is the lead developer of this games. Feel free to continue. Happy Hacking!!
